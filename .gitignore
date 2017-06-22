@@ -30,3 +30,9 @@
 
 # Debug files
 *.dSYM/
+
+
+# Folders
+build/
+.idea/
+.gradle/
